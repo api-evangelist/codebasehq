@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Codebase is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.codebasehq.com/
+Codebase provides Git, Mercurial and Subversion hosting combined with project management tools, including ticket tracking, time tracking, file sharing, and collaborative documentation. It serves development teams with integrated source control, issue management, and collaboration features, aiming to streamline software delivery and improve team productivity.
+
+**Areas:** Company · Git · Mercurial · Subversion · Project Management · Ticketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.codebasehq.com/)
+- [Documentation](https://www.codebasehq.com/)
+- [Pricing](https://www.codebasehq.com/pricing)
+- [Support](https://support.codebasehq.com/)
+- [Blog](https://www.codebasehq.com/blog)
+- [Terms of service](https://www.codebasehq.com/terms)
+- [Privacy policy](https://www.codebasehq.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/codebasehq/](https://apis.io/providers/codebasehq/).
